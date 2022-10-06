@@ -10,11 +10,10 @@ contract GleacNFT is ERC721, Ownable {
 
     Counters.Counter private _tokenIdCounter;
 
-    constructor() ERC721("GleacNFT", "GN1") {}
+    constructor() ERC721("Lovely Humans", "LH1") {}
 
     function _baseURI() internal pure override returns (string memory) {
-        //return "https://storage.googleapis.com/public-mock-data/gleac/";
-        return "https://gleac-nft-test.s3.ap-south-1.amazonaws.com/";
+        return "https://gleac-nft.s3.ap-south-1.amazonaws.com/";
     }
 
     function safeMint(address to, uint batchSize) public onlyOwner {

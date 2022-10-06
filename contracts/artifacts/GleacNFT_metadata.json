@@ -576,11 +576,11 @@
 			]
 		},
 		"contracts/GleacERC721.sol": {
-			"keccak256": "0x280873ba30d692f3aa01bcdf04f1fb9f45c51ac961f23f9c75413773676f2c1a",
+			"keccak256": "0xbf2abf7b479fe9e089dbc53bad8f55efa5a3419e1b1281d1a06dfc2f141ad52b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3e837d7cca7241d0d2b8901b3e3ea5d5a87877432206f67167b2bdd414bf7cb1",
-				"dweb:/ipfs/QmaKoLR8MgqgfzMUxKyicUge2GV4gPbbKGRUJCabcb2VDW"
+				"bzz-raw://81970a0da1786f369a356fa94869b870ca219ef6db4425a5e6cdd0cb7d8ac499",
+				"dweb:/ipfs/QmWQtJpqXUcGeGG3hm3WnpNoi2w7gWyJDB7LkZWchXayxK"
 			]
 		}
 	},
